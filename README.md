@@ -1,2 +1,6 @@
 # ejercicios-que-se-encuentran-en-la-presentaci-n-6-
-envió los 10 ejercicios solicitados
+Este repositorio contiene mis soluciones a los ejercicios vistos en clase.
+- Lenguaje: PSeInt
+- Curso: Algoritmos y Programación
+- Profesor: Norbey Danilo Muñoz
+- Alumno: Santiago Andres Castellanos Mancipe
